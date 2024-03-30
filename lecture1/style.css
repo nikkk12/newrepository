@@ -1,0 +1,35 @@
+/* #container {
+    display: none;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border-radius: 10px;
+}
+
+#check:checked ~ #container{
+    display: block;
+} */
+
+button{
+    color: red;
+    background-color: yellow;
+    width: 200px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    font-size: 30px;
+}
+
+.register{
+    color: green;
+    background-color: red;
+    width: 300px;
+    height: 100px;
+    border: none;
+    border-radius: 15px;
+    font-size: 50px;
+}
+
+a{
+    text-decoration: none;
+}
